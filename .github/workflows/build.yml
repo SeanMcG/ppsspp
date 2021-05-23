@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - master
+    - overlinking-fix
     # For testing.
     - actions
     paths-ignore:
